@@ -20,12 +20,14 @@ Durante la pandemia se han conocido diferentes variantes del virus, alguna de el
 
 **Imagenes de contenido** <br></br>
 #Visualizacion de alineamiento de secuencias ADN
+
 ![image](https://user-images.githubusercontent.com/84602829/212415315-aaba87c8-90ec-4dad-a83f-2285de918b33.png)
 
 #Matriz de distancia
+
 ![image](https://user-images.githubusercontent.com/84602829/212414586-69f2e7e3-8267-40b3-ac53-e6f3671b9aea.png)
 
 #Arbol filogenetico
+
 ![image](https://user-images.githubusercontent.com/84602829/212415249-32fc9ab2-6921-4904-87fb-186835f99067.png)
 
-#Visualizacion de alineamiento en el navegado
