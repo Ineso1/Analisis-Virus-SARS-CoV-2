@@ -31,3 +31,5 @@ Durante la pandemia se han conocido diferentes variantes del virus, alguna de el
 
 ![image](https://user-images.githubusercontent.com/84602829/212415249-32fc9ab2-6921-4904-87fb-186835f99067.png)
 
+Funcion Orientacion de nucleotidos
+![pylogenetics render](https://user-images.githubusercontent.com/84602829/214522521-31203272-7de1-4878-aa27-64bcec371774.png)
